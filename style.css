@@ -13,6 +13,12 @@ body {
     justify-content: center;
 }
 
+textarea {
+   resize: none;
+   width: 15rem;
+   height: 8rem;
+}
+
 button {
     padding: 3px;
     border-radius: 4px;
