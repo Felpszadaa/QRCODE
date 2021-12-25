@@ -22,4 +22,5 @@ button {
 
 button:hover {
     cursor: pointer;
+    padding: 5px;
 }
